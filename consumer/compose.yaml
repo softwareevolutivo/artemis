@@ -1,5 +1,5 @@
 services:
   artemis:
-    image: 'apache/activemq-artemis:latest'
+    image: 'apache/artemis:latest'
     ports:
       - '61616'
